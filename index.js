@@ -3,5 +3,6 @@ function sayHello(first) {
     console.log($(first)); 
 }
 //end function
+//rebase
 sayHello('Kristina');
 //done
