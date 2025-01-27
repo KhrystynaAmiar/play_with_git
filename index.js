@@ -1,8 +1,5 @@
-function sayHello(first) {
-    //some comment
-    console.log const newLocal = 'Hello; (first)'; 
-}
-//end function
-//rebase
-sayHello('Kristina');
-//done
+function sayHello(name, surname) {
+    console.log('Hello ${name} ${surname}');
+ }
+ 
+ sayHello('Kristina', 'Emma');
