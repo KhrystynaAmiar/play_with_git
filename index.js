@@ -1,6 +1,6 @@
-function sayHello(first name, last name) {
+function sayHello(first) {
     //some comment
-    console.log('$(first name' $(last name)'); 
+    console.log($(first)); 
 }
 
-sayHello('Khrystyna', 'Amiar');
+sayHello('Kristina');
