@@ -1,5 +1,5 @@
-function sayHello() {
-    console.log("Hello")
+function sayHello(first name,last name) {
+    console.log('$(first name' $(last name)'); 
 }
 
-sayHello();
+sayHello('Khrystyna', 'Amiar');
